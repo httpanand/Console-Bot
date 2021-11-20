@@ -7,3 +7,11 @@
 <li>Respond to commands</li>
 <li>More features coming soon</li>
 </ul>
+
+<h3>Commands</h3>
+<ul>
+<li>!help </li>
+<li>!author</li>
+<li>!features</li>
+</ul>
+
