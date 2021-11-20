@@ -1,2 +1,1 @@
-# Console-Bot
-A basic bot which can reply you in console 
+<h1 align="center"> CONSOLE BOT </h1> 
