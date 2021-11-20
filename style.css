@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
+
+#movable{
+  padding-top: 300px;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #383838;
+  border: none;
+  color: white;
+  padding: 16px 50px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#input {
+  width: 70%;
+  height: 80px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #383838;
+  color: white;
+  resize: none;
+  font-size: 50px;
+}
+body{
+  background-color: black;
+  font-family: 'Rubik', sans-serif;
+}
