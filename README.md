@@ -15,4 +15,4 @@
 <li>!features</li>
 </ul>
 
-<h5> Special Thanks <a href="https://icons8.com/"> Icons8 </a> </h5>
+<h5> Special Thanks @Icons8 </h5>
